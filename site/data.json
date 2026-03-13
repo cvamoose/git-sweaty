@@ -1961,6 +1961,15 @@
       "type": "Tennis",
       "url": "https://www.strava.com/activities/17682835924",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17705442493",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3517,6 +3526,15 @@
           "distance": 5014.6,
           "elevation_gain": 54.0,
           "moving_time": 1780.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17705442493"
+          ],
+          "count": 1,
+          "distance": 3394.2,
+          "elevation_gain": 29.0,
+          "moving_time": 1754.0
         }
       },
       "Soccer": {
@@ -3747,7 +3765,7 @@
       }
     }
   },
-  "generated_at": "2026-03-12T16:03:57.675407+00:00",
+  "generated_at": "2026-03-13T15:49:26.165048+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
