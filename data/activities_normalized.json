@@ -2845,5 +2845,18 @@
     "start_date_local": "2026-03-13T19:16:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 3187.5,
+    "elevation_gain": 0.0,
+    "id": "17714767484",
+    "moving_time": 5378.0,
+    "name": "Afternoon Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-03-14T13:57:20Z",
+    "type": "Tennis",
+    "year": 2026
   }
 ]
