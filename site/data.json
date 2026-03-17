@@ -2006,6 +2006,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17740623545",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 18,
+      "name": "Evening Football (Soccer)",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/17751179730",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3600,6 +3609,15 @@
           "distance": 2476.8,
           "elevation_gain": 3.1,
           "moving_time": 2971.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17751179730"
+          ],
+          "count": 1,
+          "distance": 3815.9,
+          "elevation_gain": 10.9,
+          "moving_time": 3541.0
         }
       },
       "Tennis": {
@@ -3839,7 +3857,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T16:10:14.444782+00:00",
+  "generated_at": "2026-03-17T16:09:59.165883+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
