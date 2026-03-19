@@ -2910,5 +2910,18 @@
     "start_date_local": "2026-03-17T18:58:30Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 4533.8,
+    "elevation_gain": 77.8,
+    "id": "17775747207",
+    "moving_time": 2773.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-19T17:54:07Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

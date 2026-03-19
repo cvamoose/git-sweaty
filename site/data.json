@@ -2015,6 +2015,15 @@
       "type": "Soccer",
       "url": "https://www.strava.com/activities/17751179730",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17775747207",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3842,6 +3851,15 @@
           "distance": 2569.9,
           "elevation_gain": 33.0,
           "moving_time": 1567.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17775747207"
+          ],
+          "count": 1,
+          "distance": 4533.8,
+          "elevation_gain": 77.8,
+          "moving_time": 2773.0
         }
       },
       "Yoga": {
@@ -3857,7 +3875,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T16:11:18.242404+00:00",
+  "generated_at": "2026-03-19T15:59:28.205051+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
