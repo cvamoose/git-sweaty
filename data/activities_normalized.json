@@ -2975,5 +2975,18 @@
     "start_date_local": "2026-03-23T18:27:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 3744.6,
+    "elevation_gain": 10.9,
+    "id": "17837717491",
+    "moving_time": 4710.0,
+    "name": "Evening Football (Soccer)",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-03-24T18:46:11Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
