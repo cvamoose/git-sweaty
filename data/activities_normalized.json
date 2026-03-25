@@ -2988,5 +2988,18 @@
     "start_date_local": "2026-03-24T18:46:11Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 4979.4,
+    "elevation_gain": 0.0,
+    "id": "17851426932",
+    "moving_time": 8117.0,
+    "name": "Evening Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-03-25T18:54:30Z",
+    "type": "Tennis",
+    "year": 2026
   }
 ]
