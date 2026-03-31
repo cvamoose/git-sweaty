@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T16:08:43.323113+00:00",
+  "generated_at": "2026-03-31T16:08:59.071071+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -1637,6 +1637,15 @@
           "distance": 3744.6,
           "elevation_gain": 10.9,
           "moving_time": 4710.0
+        },
+        "2026-03-31": {
+          "activity_ids": [
+            "17922207752"
+          ],
+          "count": 1,
+          "distance": 6243.3,
+          "elevation_gain": 18.0,
+          "moving_time": 4780.0
         }
       },
       "Tennis": {
