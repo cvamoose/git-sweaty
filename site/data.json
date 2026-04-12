@@ -2177,6 +2177,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18019097181",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 14,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18074425894",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18074588210",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3806,6 +3824,16 @@
           "distance": 5209.1,
           "elevation_gain": 41.0,
           "moving_time": 1805.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18074425894",
+            "18074588210"
+          ],
+          "count": 2,
+          "distance": 8378.400000000001,
+          "elevation_gain": 146.0,
+          "moving_time": 2952.0
         }
       },
       "Soccer": {
@@ -4165,7 +4193,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:38:11.502048+00:00",
+  "generated_at": "2026-04-12T15:40:32.797276+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
