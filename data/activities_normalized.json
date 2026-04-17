@@ -3183,5 +3183,18 @@
     "start_date_local": "2026-04-14T18:39:42Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 5027.1,
+    "elevation_gain": 79.0,
+    "id": "18141771525",
+    "moving_time": 2013.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T17:33:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
