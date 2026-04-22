@@ -3235,5 +3235,18 @@
     "start_date_local": "2026-04-21T18:50:15Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 4015.4,
+    "elevation_gain": 56.0,
+    "id": "18210659850",
+    "moving_time": 1620.0,
+    "name": "Late dog run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T21:04:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

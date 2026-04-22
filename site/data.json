@@ -2240,6 +2240,15 @@
       "type": "Soccer",
       "url": "https://www.strava.com/activities/18195082887",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 21,
+      "name": "Late dog run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18210659850",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3897,6 +3906,15 @@
           "distance": 5015.6,
           "elevation_gain": 115.0,
           "moving_time": 1895.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18210659850"
+          ],
+          "count": 1,
+          "distance": 4015.4,
+          "elevation_gain": 56.0,
+          "moving_time": 1620.0
         }
       },
       "Soccer": {
@@ -4283,7 +4301,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:13:11.469651+00:00",
+  "generated_at": "2026-04-22T16:11:22.421268+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
