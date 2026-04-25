@@ -2267,6 +2267,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18235593990",
       "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18244891578",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 14,
+      "name": "Afternoon Tennis",
+      "subtype": "Tennis",
+      "type": "Tennis",
+      "url": "https://www.strava.com/activities/18247182145",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18247963465",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3942,6 +3969,15 @@
           "distance": 5014.1,
           "elevation_gain": 16.0,
           "moving_time": 1749.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18244891578"
+          ],
+          "count": 1,
+          "distance": 10012.8,
+          "elevation_gain": 56.0,
+          "moving_time": 3594.0
         }
       },
       "Soccer": {
@@ -4166,6 +4202,15 @@
           "distance": 3308.9,
           "elevation_gain": 0.0,
           "moving_time": 5603.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18247182145"
+          ],
+          "count": 1,
+          "distance": 3548.5,
+          "elevation_gain": 0.0,
+          "moving_time": 6724.0
         }
       },
       "Walk": {
@@ -4322,6 +4367,15 @@
           "distance": 2489.5,
           "elevation_gain": 37.0,
           "moving_time": 2139.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18247963465"
+          ],
+          "count": 1,
+          "distance": 2998.7,
+          "elevation_gain": 39.0,
+          "moving_time": 1990.0
         }
       },
       "Yoga": {
@@ -4337,7 +4391,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T16:07:29.076392+00:00",
+  "generated_at": "2026-04-25T15:44:10.145640+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
