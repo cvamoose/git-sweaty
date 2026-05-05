@@ -3378,5 +3378,18 @@
     "start_date_local": "2026-05-03T15:32:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 5023.3,
+    "elevation_gain": 49.0,
+    "id": "18383321363",
+    "moving_time": 1856.0,
+    "name": "Dog Walk/Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T20:05:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
