@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:15:57.650019+00:00",
+  "generated_at": "2026-05-13T17:20:11.593894+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -1729,6 +1729,15 @@
           "distance": 5023.3,
           "elevation_gain": 49.0,
           "moving_time": 1856.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18488268407"
+          ],
+          "count": 1,
+          "distance": 5014.1,
+          "elevation_gain": 48.0,
+          "moving_time": 1783.0
         }
       },
       "Soccer": {
