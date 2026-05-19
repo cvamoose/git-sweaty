@@ -2393,6 +2393,15 @@
       "type": "Tennis",
       "url": "https://www.strava.com/activities/18553247156",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18563416154",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4576,6 +4585,15 @@
           "distance": 2998.7,
           "elevation_gain": 39.0,
           "moving_time": 1990.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18563416154"
+          ],
+          "count": 1,
+          "distance": 2605.5,
+          "elevation_gain": 34.0,
+          "moving_time": 2020.0
         }
       },
       "Yoga": {
@@ -4591,7 +4609,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T01:01:34.983223+00:00",
+  "generated_at": "2026-05-19T17:40:18.001867+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
