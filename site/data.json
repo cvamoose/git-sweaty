@@ -2474,6 +2474,15 @@
       "type": "Tennis",
       "url": "https://www.strava.com/activities/18722999403",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 18,
+      "name": "Evening Tennis",
+      "subtype": "Tennis",
+      "type": "Tennis",
+      "url": "https://www.strava.com/activities/18740472353",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4547,6 +4556,15 @@
           "distance": 4763.3,
           "elevation_gain": 0.0,
           "moving_time": 6733.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18740472353"
+          ],
+          "count": 1,
+          "distance": 2094.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3913.0
         }
       },
       "Walk": {
@@ -4745,7 +4763,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:14:25.693220+00:00",
+  "generated_at": "2026-06-01T19:56:26.345559+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
