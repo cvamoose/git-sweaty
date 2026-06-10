@@ -3716,5 +3716,31 @@
     "start_date_local": "2026-06-09T18:31:48Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 2868.2,
+    "elevation_gain": 43.0,
+    "id": "18861609509",
+    "moving_time": 2156.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-10T18:08:02Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 3010.6,
+    "elevation_gain": 37.0,
+    "id": "18862427339",
+    "moving_time": 1028.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T19:54:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
