@@ -2681,6 +2681,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19026117194",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 7,
+      "name": "Morning Run in Athens",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19044553650",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4525,6 +4534,15 @@
           "distance": 5013.7,
           "elevation_gain": 62.0,
           "moving_time": 1861.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19044553650"
+          ],
+          "count": 1,
+          "distance": 5038.1,
+          "elevation_gain": 61.0,
+          "moving_time": 1910.0
         }
       },
       "Soccer": {
@@ -5137,7 +5155,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T17:19:59.522111+00:00",
+  "generated_at": "2026-06-24T17:08:05.972452+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
