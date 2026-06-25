@@ -3885,5 +3885,44 @@
     "start_date_local": "2026-06-24T07:25:59Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 6121.3,
+    "elevation_gain": 195.0,
+    "id": "19053415178",
+    "moving_time": 5471.0,
+    "name": "Lycabettus Hill",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-24T19:22:29Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 5014.8,
+    "elevation_gain": 105.0,
+    "id": "19057590111",
+    "moving_time": 2080.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T07:41:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 9001.4,
+    "elevation_gain": 137.0,
+    "id": "19060357225",
+    "moving_time": 7919.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-25T10:23:07Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
