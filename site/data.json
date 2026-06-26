@@ -2717,6 +2717,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19060357225",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 13,
+      "name": "Afternoon Hike to our Accom",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19073576029",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4183,6 +4192,15 @@
           "distance": 6642.4,
           "elevation_gain": 377.0,
           "moving_time": 7389.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19073576029"
+          ],
+          "count": 1,
+          "distance": 3841.9,
+          "elevation_gain": 77.0,
+          "moving_time": 4285.0
         }
       },
       "Ride": {
@@ -5209,7 +5227,7 @@
       }
     }
   },
-  "generated_at": "2026-06-25T17:13:45.959235+00:00",
+  "generated_at": "2026-06-26T17:03:19.614591+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
