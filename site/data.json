@@ -2735,6 +2735,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19099770312",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 20,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19115258002",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-30",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19119010217",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4615,6 +4633,15 @@
           "distance": 5014.8,
           "elevation_gain": 105.0,
           "moving_time": 2080.0
+        },
+        "2026-06-30": {
+          "activity_ids": [
+            "19119010217"
+          ],
+          "count": 1,
+          "distance": 5013.5,
+          "elevation_gain": 19.0,
+          "moving_time": 1788.0
         }
       },
       "Soccer": {
@@ -5230,6 +5257,15 @@
           "distance": 9001.4,
           "elevation_gain": 137.0,
           "moving_time": 7919.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19115258002"
+          ],
+          "count": 1,
+          "distance": 2837.6,
+          "elevation_gain": 18.0,
+          "moving_time": 2851.0
         }
       },
       "Yoga": {
@@ -5245,7 +5281,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T17:41:19.767524+00:00",
+  "generated_at": "2026-06-30T17:08:02.963021+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
