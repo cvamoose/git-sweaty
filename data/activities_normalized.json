@@ -4028,5 +4028,18 @@
     "start_date_local": "2026-07-04T20:51:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 31826.7,
+    "elevation_gain": 774.0,
+    "id": "19206021393",
+    "moving_time": 8153.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-06T12:18:12Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
