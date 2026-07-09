@@ -4041,5 +4041,31 @@
     "start_date_local": "2026-07-06T12:18:12Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 8463.8,
+    "elevation_gain": 276.0,
+    "id": "19234399838",
+    "moving_time": 6597.0,
+    "name": "Evening Hike in Palermo",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-08T19:12:36Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-09",
+    "distance": 5013.3,
+    "elevation_gain": 24.0,
+    "id": "19239006877",
+    "moving_time": 1811.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-09T08:52:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

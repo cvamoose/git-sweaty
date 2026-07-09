@@ -2798,6 +2798,24 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19206021393",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 19,
+      "name": "Evening Hike in Palermo",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19234399838",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-09",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19239006877",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4302,6 +4320,15 @@
           "distance": 3417.9,
           "elevation_gain": 167.0,
           "moving_time": 3162.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19234399838"
+          ],
+          "count": 1,
+          "distance": 8463.8,
+          "elevation_gain": 276.0,
+          "moving_time": 6597.0
         }
       },
       "Ride": {
@@ -4716,6 +4743,15 @@
           "distance": 5011.8,
           "elevation_gain": 28.0,
           "moving_time": 1985.0
+        },
+        "2026-07-09": {
+          "activity_ids": [
+            "19239006877"
+          ],
+          "count": 1,
+          "distance": 5013.3,
+          "elevation_gain": 24.0,
+          "moving_time": 1811.0
         }
       },
       "Soccer": {
@@ -5373,7 +5409,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T16:42:53.297663+00:00",
+  "generated_at": "2026-07-09T17:23:35.062412+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
