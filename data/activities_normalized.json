@@ -4093,5 +4093,18 @@
     "start_date_local": "2026-07-10T17:28:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 6588.5,
+    "elevation_gain": 444.0,
+    "id": "19281644399",
+    "moving_time": 7831.0,
+    "name": "Mount Etna \ud83c\udf0b",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-12T10:47:45Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
