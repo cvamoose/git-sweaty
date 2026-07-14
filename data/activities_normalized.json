@@ -4106,5 +4106,31 @@
     "start_date_local": "2026-07-12T10:47:45Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 8462.5,
+    "elevation_gain": 266.0,
+    "id": "19298280613",
+    "moving_time": 8929.0,
+    "name": "Taormina, Sicily",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-07-13T14:44:47Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 704.8,
+    "elevation_gain": 0.0,
+    "id": "19309669288",
+    "moving_time": 648.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-14T14:15:42Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

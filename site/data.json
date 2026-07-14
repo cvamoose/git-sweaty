@@ -2843,6 +2843,24 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19281644399",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 14,
+      "name": "Taormina, Sicily",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19298280613",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 14,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19309669288",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4365,6 +4383,15 @@
           "distance": 6588.5,
           "elevation_gain": 444.0,
           "moving_time": 7831.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19298280613"
+          ],
+          "count": 1,
+          "distance": 8462.5,
+          "elevation_gain": 266.0,
+          "moving_time": 8929.0
         }
       },
       "Ride": {
@@ -5448,6 +5475,15 @@
           "distance": 4084.4,
           "elevation_gain": 265.0,
           "moving_time": 5132.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19309669288"
+          ],
+          "count": 1,
+          "distance": 704.8,
+          "elevation_gain": 0.0,
+          "moving_time": 648.0
         }
       },
       "Yoga": {
@@ -5463,7 +5499,7 @@
       }
     }
   },
-  "generated_at": "2026-07-13T17:16:12.924686+00:00",
+  "generated_at": "2026-07-14T16:19:23.625885+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
