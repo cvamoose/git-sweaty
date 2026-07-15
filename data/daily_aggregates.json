@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T16:19:23.619391+00:00",
+  "generated_at": "2026-07-15T16:26:24.660343+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -1961,6 +1961,15 @@
           "distance": 5015.2,
           "elevation_gain": 31.0,
           "moving_time": 1761.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19319315637"
+          ],
+          "count": 1,
+          "distance": 5013.6,
+          "elevation_gain": 77.0,
+          "moving_time": 1905.0
         }
       },
       "Soccer": {
@@ -2615,12 +2624,22 @@
         },
         "2026-07-14": {
           "activity_ids": [
-            "19309669288"
+            "19309669288",
+            "19312784065"
+          ],
+          "count": 2,
+          "distance": 2270.3,
+          "elevation_gain": 1.0,
+          "moving_time": 2054.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19322523810"
           ],
           "count": 1,
-          "distance": 704.8,
-          "elevation_gain": 0.0,
-          "moving_time": 648.0
+          "distance": 3783.5,
+          "elevation_gain": 105.0,
+          "moving_time": 3635.0
         }
       },
       "Yoga": {
