@@ -4197,5 +4197,31 @@
     "start_date_local": "2026-07-16T21:42:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 7280.5,
+    "elevation_gain": 108.0,
+    "id": "19354120136",
+    "moving_time": 6678.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-17T11:44:17Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 85980.5,
+    "elevation_gain": 49.0,
+    "id": "19365052426",
+    "moving_time": 17822.0,
+    "name": "Malta",
+    "raw_activity_type": "Sail",
+    "raw_type": "Sail",
+    "start_date_local": "2026-07-18T10:09:06Z",
+    "type": "Sail",
+    "year": 2026
   }
 ]
