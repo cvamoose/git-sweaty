@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T16:00:30.016611+00:00",
+  "generated_at": "2026-07-19T16:00:29.535961+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -1529,6 +1529,17 @@
           "distance": 8462.5,
           "elevation_gain": 266.0,
           "moving_time": 8929.0
+        }
+      },
+      "Kayaking": {
+        "2026-07-19": {
+          "activity_ids": [
+            "19374060387"
+          ],
+          "count": 1,
+          "distance": 7213.2,
+          "elevation_gain": 36.3,
+          "moving_time": 6074.0
         }
       },
       "Ride": {

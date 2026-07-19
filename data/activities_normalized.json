@@ -4217,11 +4217,24 @@
     "elevation_gain": 49.0,
     "id": "19365052426",
     "moving_time": 17822.0,
-    "name": "Malta",
+    "name": "Malta \u26f5\ud83c\udfca\ud83e\udd7d",
     "raw_activity_type": "Sail",
     "raw_type": "Sail",
     "start_date_local": "2026-07-18T10:09:06Z",
     "type": "Sail",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 7213.2,
+    "elevation_gain": 36.3,
+    "id": "19374060387",
+    "moving_time": 6074.0,
+    "name": "Morning Kayak Malta",
+    "raw_activity_type": "Kayaking",
+    "raw_type": "Kayaking",
+    "start_date_local": "2026-07-19T08:29:23Z",
+    "type": "Kayaking",
     "year": 2026
   }
 ]
