@@ -4431,5 +4431,18 @@
     "start_date_local": "2026-08-15T14:36:32Z",
     "type": "Tennis",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 3141.0,
+    "elevation_gain": 45.0,
+    "id": "19765038699",
+    "moving_time": 2245.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-16T20:45:19Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
