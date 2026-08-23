@@ -3113,6 +3113,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19805543354",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19858769316",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19860900564",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5171,6 +5189,15 @@
           "distance": 2765.8,
           "elevation_gain": 9.0,
           "moving_time": 1456.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19858769316"
+          ],
+          "count": 1,
+          "distance": 13018.4,
+          "elevation_gain": 72.0,
+          "moving_time": 4652.0
         }
       },
       "Sail": {
@@ -5953,6 +5980,15 @@
           "distance": 2471.6,
           "elevation_gain": 40.0,
           "moving_time": 1881.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19860900564"
+          ],
+          "count": 1,
+          "distance": 2723.9,
+          "elevation_gain": 43.0,
+          "moving_time": 2033.0
         }
       },
       "Yoga": {
@@ -5977,7 +6013,7 @@
       }
     }
   },
-  "generated_at": "2026-08-22T15:25:00.339616+00:00",
+  "generated_at": "2026-08-23T15:26:29.920461+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
