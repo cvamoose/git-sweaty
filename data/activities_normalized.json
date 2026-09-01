@@ -4561,5 +4561,18 @@
     "start_date_local": "2026-08-31T18:46:07Z",
     "type": "Tennis",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 4623.6,
+    "elevation_gain": 2.5,
+    "id": "19987542857",
+    "moving_time": 3853.0,
+    "name": "Evening Football (Soccer)",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-09-01T18:33:04Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
