@@ -4587,5 +4587,18 @@
     "start_date_local": "2026-09-05T12:05:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 21259.5,
+    "elevation_gain": 151.0,
+    "id": "20053268679",
+    "moving_time": 7045.0,
+    "name": "Dubbo Stampede Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T06:58:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

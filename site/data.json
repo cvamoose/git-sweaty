@@ -3176,6 +3176,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20040682341",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 6,
+      "name": "Dubbo Stampede Half Marathon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20053268679",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5261,6 +5270,15 @@
           "distance": 2132.5,
           "elevation_gain": 25.0,
           "moving_time": 771.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20053268679"
+          ],
+          "count": 1,
+          "distance": 21259.5,
+          "elevation_gain": 151.0,
+          "moving_time": 7045.0
         }
       },
       "Sail": {
@@ -6103,7 +6121,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T17:13:28.971509+00:00",
+  "generated_at": "2026-09-06T17:33:36.453611+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
