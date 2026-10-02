@@ -3356,6 +3356,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20384826203",
       "year": 2026
+    },
+    {
+      "date": "2026-10-02",
+      "hour": 12,
+      "name": "Lunch Tennis",
+      "subtype": "Tennis",
+      "type": "Tennis",
+      "url": "https://www.strava.com/activities/20415214578",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6018,6 +6027,15 @@
           "distance": 4313.3,
           "elevation_gain": 0.0,
           "moving_time": 7230.0
+        },
+        "2026-10-02": {
+          "activity_ids": [
+            "20415214578"
+          ],
+          "count": 1,
+          "distance": 2466.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3044.0
         }
       },
       "Walk": {
@@ -6463,7 +6481,7 @@
       }
     }
   },
-  "generated_at": "2026-10-01T20:12:44.921021+00:00",
+  "generated_at": "2026-10-02T19:49:13.216584+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",

@@ -4847,5 +4847,18 @@
     "start_date_local": "2026-09-30T07:43:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 2466.1,
+    "elevation_gain": 0.0,
+    "id": "20415214578",
+    "moving_time": 3044.0,
+    "name": "Lunch Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-10-02T12:56:55Z",
+    "type": "Tennis",
+    "year": 2026
   }
 ]
