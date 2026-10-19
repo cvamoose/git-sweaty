@@ -5068,5 +5068,31 @@
     "start_date_local": "2026-10-18T10:55:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 3390.5,
+    "elevation_gain": 24.0,
+    "id": "20643675151",
+    "moving_time": 2413.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-19T17:37:33Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 2062.3,
+    "elevation_gain": 0.0,
+    "id": "20644538368",
+    "moving_time": 3798.0,
+    "name": "Evening Tennis",
+    "raw_activity_type": "Workout",
+    "raw_type": "Tennis",
+    "start_date_local": "2026-10-19T18:51:49Z",
+    "type": "Tennis",
+    "year": 2026
   }
 ]
