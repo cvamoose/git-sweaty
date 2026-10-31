@@ -3626,6 +3626,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20775501906",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 9,
+      "name": "Marys Mayhem",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20798417253",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5229,6 +5238,15 @@
           "distance": 12862.3,
           "elevation_gain": 176.0,
           "moving_time": 3962.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20798417253"
+          ],
+          "count": 1,
+          "distance": 57087.4,
+          "elevation_gain": 684.0,
+          "moving_time": 12547.0
         }
       },
       "Run": {
@@ -6979,7 +6997,7 @@
       }
     }
   },
-  "generated_at": "2026-10-30T19:52:57.851269+00:00",
+  "generated_at": "2026-10-31T19:09:50.901998+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",

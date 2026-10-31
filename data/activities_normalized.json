@@ -5237,5 +5237,18 @@
     "start_date_local": "2026-10-29T19:37:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 57087.4,
+    "elevation_gain": 684.0,
+    "id": "20798417253",
+    "moving_time": 12547.0,
+    "name": "Marys Mayhem",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-31T09:01:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
