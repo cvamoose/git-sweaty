@@ -5244,10 +5244,23 @@
     "elevation_gain": 684.0,
     "id": "20798417253",
     "moving_time": 12547.0,
-    "name": "Marys Mayhem",
+    "name": "Marys Mayhem Day 1 Mudgee",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-10-31T09:01:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 35286.7,
+    "elevation_gain": 418.0,
+    "id": "20810797144",
+    "moving_time": 8529.0,
+    "name": "Mary's Mayhem 2026 Day 2 Rylstone",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-01T09:00:33Z",
     "type": "Ride",
     "year": 2026
   }
