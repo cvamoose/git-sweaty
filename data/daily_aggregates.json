@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:17:34.307586+00:00",
+  "generated_at": "2026-11-08T19:26:11.417988+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -2444,6 +2444,15 @@
           "distance": 10376.5,
           "elevation_gain": 164.0,
           "moving_time": 3985.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20900708723"
+          ],
+          "count": 1,
+          "distance": 10402.5,
+          "elevation_gain": 115.0,
+          "moving_time": 3612.0
         }
       },
       "Sail": {
