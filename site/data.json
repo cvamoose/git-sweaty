@@ -3725,6 +3725,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20900708723",
       "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 18,
+      "name": "Evening Tennis",
+      "subtype": "Tennis",
+      "type": "Tennis",
+      "url": "https://www.strava.com/activities/20918559851",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-09",
+      "hour": 22,
+      "name": "Night Tennis",
+      "subtype": "Tennis",
+      "type": "Tennis",
+      "url": "https://www.strava.com/activities/20918848757",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6697,6 +6715,16 @@
           "distance": 4334.5,
           "elevation_gain": 0.0,
           "moving_time": 7895.0
+        },
+        "2026-11-09": {
+          "activity_ids": [
+            "20918559851",
+            "20918848757"
+          ],
+          "count": 2,
+          "distance": 3121.4,
+          "elevation_gain": 0.0,
+          "moving_time": 5719.0
         }
       },
       "Walk": {
@@ -7169,7 +7197,7 @@
       }
     }
   },
-  "generated_at": "2026-11-08T19:26:11.424940+00:00",
+  "generated_at": "2026-11-09T23:43:31.776582+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
