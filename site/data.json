@@ -3761,6 +3761,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20942700417",
       "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 18,
+      "name": "Evening Football (Soccer)",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/20956978315",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 20,
+      "name": "Evening Football (Soccer)",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/20957440807",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 22,
+      "name": "Night Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20958444936",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6355,6 +6382,16 @@
           "distance": 2155.3,
           "elevation_gain": 5.6,
           "moving_time": 2327.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20956978315",
+            "20957440807"
+          ],
+          "count": 2,
+          "distance": 4062.2,
+          "elevation_gain": 2.5,
+          "moving_time": 2972.0
         }
       },
       "Tennis": {
@@ -7209,6 +7246,15 @@
           "distance": 2151.3,
           "elevation_gain": 42.0,
           "moving_time": 1663.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20958444936"
+          ],
+          "count": 1,
+          "distance": 765.0,
+          "elevation_gain": 23.0,
+          "moving_time": 674.0
         }
       },
       "Yoga": {
@@ -7233,7 +7279,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:47:58.880956+00:00",
+  "generated_at": "2026-11-12T21:46:46.631409+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",
