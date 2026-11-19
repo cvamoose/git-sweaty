@@ -5536,5 +5536,31 @@
     "start_date_local": "2026-11-17T19:52:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 1421.2,
+    "elevation_gain": 4.6,
+    "id": "21043552763",
+    "moving_time": 901.0,
+    "name": "Afternoon Football (Soccer)",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-11-19T17:54:58Z",
+    "type": "Soccer",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 2760.2,
+    "elevation_gain": 21.0,
+    "id": "21044533690",
+    "moving_time": 1091.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-19T20:31:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
