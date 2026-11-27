@@ -3914,6 +3914,15 @@
       "type": "Soccer",
       "url": "https://www.strava.com/activities/21128237548",
       "year": 2026
+    },
+    {
+      "date": "2026-11-28",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21147201899",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6441,6 +6450,15 @@
           "distance": 5017.8,
           "elevation_gain": 91.0,
           "moving_time": 1832.0
+        },
+        "2026-11-28": {
+          "activity_ids": [
+            "21147201899"
+          ],
+          "count": 1,
+          "distance": 5014.6,
+          "elevation_gain": 71.0,
+          "moving_time": 1607.0
         }
       },
       "Sail": {
@@ -7507,7 +7525,7 @@
       }
     }
   },
-  "generated_at": "2026-11-26T23:34:37.869108+00:00",
+  "generated_at": "2026-11-27T23:17:28.592732+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/5631600",
   "repo": "cvamoose/git-sweaty",

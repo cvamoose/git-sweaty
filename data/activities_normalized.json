@@ -5653,5 +5653,18 @@
     "start_date_local": "2026-11-26T17:54:47Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-11-28",
+    "distance": 5014.6,
+    "elevation_gain": 71.0,
+    "id": "21147201899",
+    "moving_time": 1607.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-28T08:05:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
